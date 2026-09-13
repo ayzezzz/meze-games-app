@@ -1,0 +1,63 @@
+[
+    {
+    "id": 1,
+    "word": "TELEFON",
+    "forbidden": ["Aramak", "Mesaj", "Cep", "Ekran", "Numara"],
+    "category": "Teknoloji"
+    },
+    {
+    "id": 2,
+    "word": "DENİZ",
+    "forbidden": ["Su", "Plaj", "Yüzmek", "Dalga", "Sahil"],
+    "category": "Doğa"
+    },
+    {
+    "id": 3,
+    "word": "ÖĞRETMEN",
+    "forbidden": ["Okul", "Ders", "Öğrenci", "Tahta", "Eğitim"],
+    "category": "Meslek"
+    },
+    {
+    "id": 4,
+    "word": "PİZZA",
+    "forbidden": ["Peynir", "Hamur", "Domates", "İtalyan", "Dilim"],
+    "category": "Yiyecek"
+    },
+    {
+    "id": 5,
+    "word": "FUTBOL",
+    "forbidden": ["Top", "Maç", "Gol", "Takım", "Saha"],
+    "category": "Spor"
+    },
+    {
+    "id": 6,
+    "word": "KİTAP",
+    "forbidden": ["Okumak", "Sayfa", "Yazar", "Roman", "Kütüphane"],
+    "category": "Eğitim"
+    },
+    {
+    "id": 7,
+    "word": "DOKTOR",
+    "forbidden": ["Hastane", "Hasta", "Muayene", "İlaç", "Sağlık"],
+    "category": "Meslek"
+    },
+    {
+    "id": 8,
+    "word": "ARABA",
+    "forbidden": ["Motor", "Tekerlek", "Sürmek", "Yol", "Araç"],
+    "category": "Ulaşım"
+    },
+    {
+    "id": 9,
+    "word": "DOĞUM GÜNÜ",
+    "forbidden": ["Pasta", "Hediye", "Mum", "Kutlama", "Parti"],
+    "category": "Etkinlik"
+    },
+    {
+    "id": 10,
+    "word": "YAĞMUR",
+    "forbidden": ["Su", "Bulut", "Şemsiye", "Islak", "Hava"],
+    "category": "Doğa"
+    }
+    ]
+    

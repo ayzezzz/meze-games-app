@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "word": "KAHVE",
+    "forbidden": [
+      "Fincan",
+      "Kafein",
+      "İçecek",
+      "Türk",
+      "Sabah"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 2,
+    "word": "DENİZ",
+    "forbidden": [
+      "Mavi",
+      "Su",
+      "Yüzmek",
+      "Dalga",
+      "Sahil"
+    ],
+    "category": "Doğa"
+  },
+  {
+    "id": 3,
+    "word": "KİTAP",
+    "forbidden": [
+      "Sayfa",
+      "Okumak",
+      "Yazar",
+      "Kütüphane",
+      "Roman"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 4,
+    "word": "TELEFON",
+    "forbidden": [
+      "Arama",
+      "Ekran",
+      "Akıllı",
+      "Mesaj",
+      "Şarj"
+    ],
+    "category": "Teknoloji"
+  },
+  {
+    "id": 5,
+    "word": "DOKTOR",
+    "forbidden": [
+      "Hastane",
+      "İlaç",
+      "Muayene",
+      "Beyaz",
+      "Önlük"
+    ],
+    "category": "Meslekler"
+  },
+  {
+    "id": 6,
+    "word": "FUTBOL",
+    "forbidden": [
+      "Top",
+      "Gol",
+      "Saha",
+      "Takım",
+      "Hakem"
+    ],
+    "category": "Spor"
+  },
+  {
+    "id": 7,
+    "word": "SİNEMA",
+    "forbidden": [
+      "Film",
+      "Perde",
+      "Mısır",
+      "Bilet",
+      "Oyuncu"
+    ],
+    "category": "Eğlence"
+  },
+  {
+    "id": 8,
+    "word": "KEDİ",
+    "forbidden": [
+      "Pati",
+      "Tüy",
+      "Miyav",
+      "Mama",
+      "Kum"
+    ],
+    "category": "Hayvanlar"
+  },
+  {
+    "id": 9,
+    "word": "ARABA",
+    "forbidden": [
+      "Tekerlek",
+      "Direksiyon",
+      "Yol",
+      "Motor",
+      "Ehliyet"
+    ],
+    "category": "Taşıtlar"
+  },
+  {
+    "id": 10,
+    "word": "GÜNEŞ",
+    "forbidden": [
+      "Sıcak",
+      "Sarı",
+      "Yaz",
+      "Gökyüzü",
+      "Işık"
+    ],
+    "category": "Doğa"
+  },
+  {
+    "id": 11,
+    "word": "SAAT",
+    "forbidden": [
+      "Zaman",
+      "KOL",
+      "Dakika",
+      "Yelkovan",
+      "Akrep"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 12,
+    "word": "OKUL",
+    "forbidden": [
+      "Öğrenci",
+      "Ders",
+      "Sınıf",
+      "Zil",
+      "Sınav"
+    ],
+    "category": "Mekanlar"
+  },
+  {
+    "id": 13,
+    "word": "BİLGİSAYAR",
+    "forbidden": [
+      "Klavye",
+      "Fare",
+      "Masaüstü",
+      "İnternet",
+      "Ekran"
+    ],
+    "category": "Teknoloji"
+  },
+  {
+    "id": 14,
+    "word": "UÇAK",
+    "forbidden": [
+      "Havalimanı",
+      "Pilot",
+      "Kanat",
+      "Uçmak",
+      "Bilet"
+    ],
+    "category": "Taşıtlar"
+  },
+  {
+    "id": 15,
+    "word": "KÖPEK",
+    "forbidden": [
+      "Havlamak",
+      "Pati",
+      "Sadık",
+      "Tasmalı",
+      "Kemik"
+    ],
+    "category": "Hayvanlar"
+  },
+  {
+    "id": 16,
+    "word": "YAĞMUR",
+    "forbidden": [
+      "Bulut",
+      "Su",
+      "Şemsiye",
+      "Damla",
+      "Islanmak"
+    ],
+    "category": "Doğa"
+  },
+  {
+    "id": 17,
+    "word": "MÜZİK",
+    "forbidden": [
+      "Şarkı",
+      "Dinlemek",
+      "Enstrüman",
+      "Ses",
+      "Ritim"
+    ],
+    "category": "Sanat"
+  },
+  {
+    "id": 18,
+    "word": "ÖĞRETMEN",
+    "forbidden": [
+      "Okul",
+      "Ders",
+      "Öğrenci",
+      "Tahta",
+      "Not"
+    ],
+    "category": "Meslekler"
+  },
+  {
+    "id": 19,
+    "word": "ÇİKOLATA",
+    "forbidden": [
+      "Tatlı",
+      "Kakaolu",
+      "Sütlü",
+      "Siyah",
+      "Paket"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 20,
+    "word": "TELEVİZYON",
+    "forbidden": [
+      "Kumanda",
+      "Kanal",
+      "Dizi",
+      "Haber",
+      "Ekran"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 21,
+    "word": "AYNA",
+    "forbidden": [
+      "Yansıma",
+      "Baktı",
+      "Cam",
+      "Görüntü",
+      "Yüz"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 22,
+    "word": "TREN",
+    "forbidden": [
+      "Ray",
+      "Gar",
+      "Vagon",
+      "Makinist",
+      "Düdük"
+    ],
+    "category": "Taşıtlar"
+  },
+  {
+    "id": 23,
+    "word": "AŞK",
+    "forbidden": [
+      "Kalp",
+      "Sevgi",
+      "Romantik",
+      "Duygu",
+      "Sevgili"
+    ],
+    "category": "Kavramlar"
+  },
+  {
+    "id": 24,
+    "word": "HASTANE",
+    "forbidden": [
+      "Doktor",
+      "Hemşire",
+      "Hasta",
+      "Ambulans",
+      "Yatak"
+    ],
+    "category": "Mekanlar"
+  },
+  {
+    "id": 25,
+    "word": "AYAKKABI",
+    "forbidden": [
+      "Bağcık",
+      "Giymek",
+      "Topuk",
+      "Taban",
+      "Çorap"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 26,
+    "word": "EKMEK",
+    "forbidden": [
+      "Fırın",
+      "Un",
+      "Buğday",
+      "Dilim",
+      "Kahvaltı"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 27,
+    "word": "KALEM",
+    "forbidden": [
+      "Yazı",
+      "Kağıt",
+      "Tükenmez",
+      "Kurşun",
+      "Defter"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 28,
+    "word": "OTOBÜS",
+    "forbidden": [
+      "Durak",
+      "Şoför",
+      "Abonman",
+      "Yolcu",
+      "Trafik"
+    ],
+    "category": "Taşıtlar"
+  },
+  {
+    "id": 29,
+    "word": "KUŞ",
+    "forbidden": [
+      "Kanat",
+      "Uçmak",
+      "Tüy",
+      "Gaga",
+      "Kafes"
+    ],
+    "category": "Hayvanlar"
+  },
+  {
+    "id": 30,
+    "word": "KAR",
+    "forbidden": [
+      "Kış",
+      "Beyaz",
+      "Soğuk",
+      "Adam",
+      "Topu"
+    ],
+    "category": "Doğa"
+  },
+  {
+    "id": 31,
+    "word": "AVUKAT",
+    "forbidden": [
+      "Mahkeme",
+      "Dava",
+      "Hukuk",
+      "Cübbe",
+      "Müvekkil"
+    ],
+    "category": "Meslekler"
+  },
+  {
+    "id": 32,
+    "word": "YATAK",
+    "forbidden": [
+      "Uyku",
+      "Yorgan",
+      "Yastık",
+      "Oda",
+      "Gece"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 33,
+    "word": "ÇAY",
+    "forbidden": [
+      "Ince Belli",
+      "Demlik",
+      "Şeker",
+      "Sıcak",
+      "Rize"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 34,
+    "word": "BİSİKLET",
+    "forbidden": [
+      "Pedal",
+      "Tekerlek",
+      "Kask",
+      "Zincir",
+      "Sürmek"
+    ],
+    "category": "Taşıtlar"
+  },
+  {
+    "id": 35,
+    "word": "POLİS",
+    "forbidden": [
+      "Ami̇r",
+      "Sirene",
+      "Karakol",
+      "Uniforma",
+      "Suçlu"
+    ],
+    "category": "Meslekler"
+  },
+  {
+    "id": 36,
+    "word": "SANDALYE",
+    "forbidden": [
+      "Oturmak",
+      "Masa",
+      "Mobi̇lya",
+      "Ayak",
+      "Tahta"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 37,
+    "word": "İNTERNET",
+    "forbidden": [
+      "Ağ",
+      "Wi-Fi",
+      "Bağlantı",
+      "Site",
+      "Arama"
+    ],
+    "category": "Teknoloji"
+  },
+  {
+    "id": 38,
+    "word": "ORMAN",
+    "forbidden": [
+      "Ağaç",
+      "Yeşil",
+      "Doğa",
+      "Piknik",
+      "Yaprak"
+    ],
+    "category": "Doğa"
+  },
+  {
+    "id": 39,
+    "word": "PARA",
+    "forbidden": [
+      "Nakit",
+      "Cüzdan",
+      "Banka",
+      "Harcamak",
+      "Kuruş"
+    ],
+    "category": "Günlük Yaşam"
+  },
+  {
+    "id": 40,
+    "word": "DONDURMA",
+    "forbidden": [
+      "Külah",
+      "Soğuk",
+      "Yaz",
+      "Vanilya",
+      "Erimiș"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 41,
+    "word": "GÖZLÜK",
+    "forbidden": [
+      "Göz",
+      "Cam",
+      "Çerçeve",
+      "Görmek",
+      "Numara"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 42,
+    "word": "PİZZA",
+    "forbidden": [
+      "Peynir",
+      "İtalyan",
+      "Dilim",
+      "Sucuk",
+      "Hamur"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 43,
+    "word": "RÜZGAR",
+    "forbidden": [
+      "Esme",
+      "Fırtına",
+      "Hava",
+      "Serin",
+      "Kanat"
+    ],
+    "category": "Doğa"
+  },
+  {
+    "id": 44,
+    "word": "AĞAÇ",
+    "forbidden": [
+      "Yaprak",
+      "Dal",
+      "Kök",
+      "Yeşil",
+      "Orman"
+    ],
+    "category": "Doğa"
+  },
+  {
+    "id": 45,
+    "word": "ŞEMSİYE",
+    "forbidden": [
+      "Yağmur",
+      "Islanmak",
+      "Açmak",
+      "Kuru",
+      "Rüzgar"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 46,
+    "word": "BERBER",
+    "forbidden": [
+      "Saç",
+      "Sakal",
+      "Makas",
+      "Tıraş",
+      "Ayna"
+    ],
+    "category": "Meslekler"
+  },
+  {
+    "id": 47,
+    "word": "TİYATRO",
+    "forbidden": [
+      "Sahne",
+      "Oyuncu",
+      "Perde",
+      "Alkış",
+      "Bilet"
+    ],
+    "category": "Sanat"
+  },
+  {
+    "id": 48,
+    "word": "GEMİ",
+    "forbidden": [
+      "Deniz",
+      "Kaptan",
+      "Liman",
+      "Güreşte",
+      "Yelken"
+    ],
+    "category": "Taşıtlar"
+  },
+  {
+    "id": 49,
+    "word": "ÇANTA",
+    "forbidden": [
+      "Sırt",
+      "Taşımak",
+      "Fermuar",
+      "Omuz",
+      "Eşya"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 50,
+    "word": "PİYANO",
+    "forbidden": [
+      "Tuş",
+      "Siyah",
+      "Beyaz",
+      "Müzik",
+      "Enstrüman"
+    ],
+    "category": "Sanat"
+  },
+  {
+    "id": 51,
+    "word": "BALIK",
+    "forbidden": [
+      "Deniz",
+      "Akvaryum",
+      "Yüzmek",
+      "Pul",
+      "Olta"
+    ],
+    "category": "Hayvanlar"
+  },
+  {
+    "id": 52,
+    "word": "KAPI",
+    "forbidden": [
+      "Anahtar",
+      "Kilit",
+      "Oda",
+      "Giriş",
+      "Kulp"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 53,
+    "word": "GARSON",
+    "forbidden": [
+      "Restoran",
+      "Sipariş",
+      "Menü",
+      "Bahşiş",
+      "Tepsi"
+    ],
+    "category": "Meslekler"
+  },
+  {
+    "id": 54,
+    "word": "FOTOĞRAF",
+    "forbidden": [
+      "Kamera",
+      "Çekmek",
+      "Kare",
+      "Poz",
+      "Resim"
+    ],
+    "category": "Sanat"
+  },
+  {
+    "id": 55,
+    "word": "GECE",
+    "forbidden": [
+      "Karanlık",
+      "Ay",
+      "Yıldız",
+      "Uyku",
+      "Gündüz"
+    ],
+    "category": "Doğa"
+  },
+  {
+    "id": 56,
+    "word": "SU",
+    "forbidden": [
+      "İçmek",
+      "Şişe",
+      "Berrak",
+      "Bardak",
+      "Hayat"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 57,
+    "word": "MAKAS",
+    "forbidden": [
+      "Kesmek",
+      "Kağıt",
+      "Berber",
+      "Kumaş",
+      "Keskin"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 58,
+    "word": "KÖPRÜ",
+    "forbidden": [
+      "Deniz",
+      "Geçmek",
+      "Yol",
+      "Ayak",
+      "İstanbul"
+    ],
+    "category": "Mekanlar"
+  },
+  {
+    "id": 59,
+    "word": "MÜZE",
+    "forbidden": [
+      "Tarih",
+      "Eser",
+      "Sergi",
+      "Bilet",
+      "Gezmek"
+    ],
+    "category": "Mekanlar"
+  },
+  {
+    "id": 60,
+    "word": "YILDIZ",
+    "forbidden": [
+      "Gökyüzü",
+      "Gece",
+      "Parlak",
+      "Uzay",
+      "Kuyruklu"
+    ],
+    "category": "Doğa"
+  },
+  {
+    "id": 61,
+    "word": "MİMAR",
+    "forbidden": [
+      "Bina",
+      "Çizim",
+      "Proje",
+      "Ev",
+      "İnşaat"
+    ],
+    "category": "Meslekler"
+  },
+  {
+    "id": 62,
+    "word": "MAKARNA",
+    "forbidden": [
+      "Sos",
+      "İtalyan",
+      "Peynir",
+      "Haşlamak",
+      "Spagetti"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 63,
+    "word": "PARFÜM",
+    "forbidden": [
+      "Koku",
+      "Şişe",
+      "Sıkmak",
+      "Güzel",
+      "Esans"
+    ],
+    "category": "Günlük Yaşam"
+  },
+  {
+    "id": 64,
+    "word": "ÇÖL",
+    "forbidden": [
+      "Kum",
+      "Sıcak",
+      "Deve",
+      "Vaha",
+      "Kurak"
+    ],
+    "category": "Doğa"
+  },
+  {
+    "id": 65,
+    "word": "BUZDOLABI",
+    "forbidden": [
+      "Soğuk",
+      "Mutfak",
+      "Buzluk",
+      "Yemek",
+      "Elektrik"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 66,
+    "word": "BASKETBOL",
+    "forbidden": [
+      "Pota",
+      "Top",
+      "Smaç",
+      "P parke",
+      "Basket"
+    ],
+    "category": "Spor"
+  },
+  {
+    "id": 67,
+    "word": "ÇİÇEK",
+    "forbidden": [
+      "Gül",
+      "Papatya",
+      "Saksı",
+      "Koklamak",
+      "Bahçe"
+    ],
+    "category": "Doğa"
+  },
+  {
+    "id": 68,
+    "word": "ANAHTAR",
+    "forbidden": [
+      "Kilit",
+      "Kapı",
+      "Açmak",
+      "Çilingir",
+      "Metal"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 69,
+    "word": "AŞÇI",
+    "forbidden": [
+      "Yemek",
+      "Mutfak",
+      "Şef",
+      "Pişirmek",
+      "Restoran"
+    ],
+    "category": "Meslekler"
+  },
+  {
+    "id": 70,
+    "word": "GÜNEŞ GÖZLÜĞÜ",
+    "forbidden": [
+      "Yaz",
+      "Göz",
+      "Siyah",
+      "Koruma",
+      "Işık"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 71,
+    "word": "YÜZME",
+    "forbidden": [
+      "Havuz",
+      "Deniz",
+      "Su",
+      "Kulaç",
+      "Mayolu"
+    ],
+    "category": "Spor"
+  },
+  {
+    "id": 72,
+    "word": "KULAKLIK",
+    "forbidden": [
+      "Müzik",
+      "Dinlemek",
+      "Ses",
+      "Kablo",
+      "Kulak"
+    ],
+    "category": "Teknoloji"
+  },
+  {
+    "id": 73,
+    "word": "DÜNYA",
+    "forbidden": [
+      "Gezegen",
+      "Mavi",
+      "Kıta",
+      "İnsan",
+      "Yuvarlak"
+    ],
+    "category": "Doğa"
+  },
+  {
+    "id": 74,
+    "word": "HAMAM",
+    "forbidden": [
+      "Sıcak",
+      "Tellak",
+      "Kese",
+      "Sabun",
+      "Kurna"
+    ],
+    "category": "Mekanlar"
+  },
+  {
+    "id": 75,
+    "word": "GÜLÜMSEMEK",
+    "forbidden": [
+      "Yüz",
+      "Mutlu",
+      "Dudak",
+      "Kahkaha",
+      "Neşe"
+    ],
+    "category": "Kavramlar"
+  },
+  {
+    "id": 76,
+    "word": "BIÇAK",
+    "forbidden": [
+      "Kesmek",
+      "Mutfak",
+      "Keskin",
+      "Tehlikeli",
+      "Çatal"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 77,
+    "word": "GAZETE",
+    "forbidden": [
+      "Haber",
+      "Manşet",
+      "Kağıt",
+      "Okumak",
+      "Köşe Yazısı"
+    ],
+    "category": "Günlük Yaşam"
+  },
+  {
+    "id": 78,
+    "word": "HELİKOPTER",
+    "forbidden": [
+      "Pervane",
+      "Uçmak",
+      "Pist",
+      "Hava",
+      "Pilot"
+    ],
+    "category": "Taşıtlar"
+  },
+  {
+    "id": 79,
+    "word": "TABLO",
+    "forbidden": [
+      "Ressam",
+      "Boya",
+      "Tuval",
+      "Müze",
+      "Duvar"
+    ],
+    "category": "Sanat"
+  },
+  {
+    "id": 80,
+    "word": "KARPUZ",
+    "forbidden": [
+      "Kırmızı",
+      "Yaz",
+      "Çekirdek",
+      "Kabuk",
+      "Meyve"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 81,
+    "word": "İTFAİYE",
+    "forbidden": [
+      "Yangın",
+      "Su",
+      "Kırmızı",
+      "Hortum",
+      "Siren"
+    ],
+    "category": "Meslekler"
+  },
+  {
+    "id": 82,
+    "word": "HALI",
+    "forbidden": [
+      "Zemin",
+      "Desen",
+      "Yün",
+      "Süpürge",
+      "Oda"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 83,
+    "word": "MUM",
+    "forbidden": [
+      "Alev",
+      "Erimiş",
+      "Işık",
+      "Karanlık",
+      "Fitil"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 84,
+    "word": "ASLAN",
+    "forbidden": [
+      "Orman",
+      "Kral",
+      "Yele",
+      "Vahşi",
+      "Kükremek"
+    ],
+    "category": "Hayvanlar"
+  },
+  {
+    "id": 85,
+    "word": "YÜZÜK",
+    "forbidden": [
+      "Parmak",
+      "Altın",
+      "Evlilik",
+      "Pırlanta",
+      "Takı"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 86,
+    "word": "TAKSİ",
+    "forbidden": [
+      "Sarı",
+      "Şoför",
+      "Taksimetre",
+      "Müşteri",
+      "Durak"
+    ],
+    "category": "Taşıtlar"
+  },
+  {
+    "id": 87,
+    "word": "ŞEKER",
+    "forbidden": [
+      "Tatlı",
+      "Çay",
+      "Beyaz",
+      "Küp",
+      "Bayram"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 88,
+    "word": "RADYO",
+    "forbidden": [
+      "Dinlemek",
+      "Kanal",
+      "Ses",
+      "Müzik",
+      "Frekans"
+    ],
+    "category": "Teknoloji"
+  },
+  {
+    "id": 89,
+    "word": "PİL",
+    "forbidden": [
+      "Enerji",
+      "Batarya",
+      "Kumanda",
+      "Şarj",
+      "Arti-Eksi"
+    ],
+    "category": "Teknoloji"
+  },
+  {
+    "id": 90,
+    "word": "KÜTÜPHANE",
+    "forbidden": [
+      "Kitap",
+      "Sessiz",
+      "Okumak",
+      "Raf",
+      "Çalışmak"
+    ],
+    "category": "Mekanlar"
+  },
+  {
+    "id": 91,
+    "word": "ÇORBA",
+    "forbidden": [
+      "Sıcak",
+      "Kaşık",
+      "Kase",
+      "İçmek",
+      "Başlangıç"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 92,
+    "word": "BİLET",
+    "forbidden": [
+      "Giriş",
+      "Sinema",
+      "Otobüs",
+      "Uçak",
+      "Koltuk"
+    ],
+    "category": "Günlük Yaşam"
+  },
+  {
+    "id": 93,
+    "word": "AŞI",
+    "forbidden": [
+      "İğne",
+      "Doktor",
+      "Virüs",
+      "KOL",
+      "Hasta"
+    ],
+    "category": "Günlük Yaşam"
+  },
+  {
+    "id": 94,
+    "word": "GÖL",
+    "forbidden": [
+      "Su",
+      "Tatlı",
+      "Kıyı",
+      "Ördek",
+      "Durgun"
+    ],
+    "category": "Doğa"
+  },
+  {
+    "id": 95,
+    "word": "MEKTUP",
+    "forbidden": [
+      "Zarf",
+      "Postacı",
+      "Yazmak",
+      "PUL",
+      "Adres"
+    ],
+    "category": "Günlük Yaşam"
+  },
+  {
+    "id": 96,
+    "word": "AİLE",
+    "forbidden": [
+      "Anne",
+      "Baba",
+      "Çocuk",
+      "Akraba",
+      "Ev"
+    ],
+    "category": "Kavramlar"
+  },
+  {
+    "id": 97,
+    "word": "VALİZ",
+    "forbidden": [
+      "Bavul",
+      "Tatil",
+      "Kıyafet",
+      "Yolculuk",
+      "Tekerlek"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 98,
+    "word": "YILAN",
+    "forbidden": [
+      "Sürünmek",
+      "Zehir",
+      "Tehlikeli",
+      "Dili",
+      "Pullu"
+    ],
+    "category": "Hayvanlar"
+  },
+  {
+    "id": 99,
+    "word": "ÇAMAŞIR MAKİNESİ",
+    "forbidden": [
+      "Kıyafet",
+      "Yıkamak",
+      "Deterjan",
+      "Dönmek",
+      "Temiz"
+    ],
+    "category": "Eşya"
+  },
+  {
+    "id": 100,
+    "word": "PASTA",
+    "forbidden": [
+      "Doğum Günü",
+      "Mum",
+      "Krema",
+      "Tatlı",
+      "Dilim"
+    ],
+    "category": "Yiyecek & İçecek"
+  }
+]
