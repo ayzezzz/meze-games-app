@@ -1198,5 +1198,1205 @@
       "Dilim"
     ],
     "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 101,
+    "word": "PENCERE",
+    "forbidden": [
+      "Cam",
+      "Çerçeve",
+      "Oda",
+      "Açmak",
+      "Kapatmak"
+    ],
+    "category": "Ev Eşyası"
+  },
+  {
+    "id": 102,
+    "word": "BULAŞIK MAKİNESİ",
+    "forbidden": [
+      "Mutfak",
+      "Yıkamak",
+      "Deterjan",
+      "Tabak",
+      "Kirli"
+    ],
+    "category": "Ev Eşyası"
+  },
+  {
+    "id": 103,
+    "word": "MİKRODALGA",
+    "forbidden": [
+      "Fırın",
+      "Isıtmak",
+      "Yemek",
+      "Hızlı",
+      "Mutfak"
+    ],
+    "category": "Ev Eşyası"
+  },
+  {
+    "id": 104,
+    "word": "YASTIK",
+    "forbidden": [
+      "Baş",
+      "Yatak",
+      "Uyku",
+      "Kılıf",
+      "Yumuşak"
+    ],
+    "category": "Ev Eşyası"
+  },
+  {
+    "id": 105,
+    "word": "YORGAN",
+    "forbidden": [
+      "Kış",
+      "Örtü",
+      "Sıcak",
+      "Uyku",
+      "Yatak"
+    ],
+    "category": "Ev Eşyası"
+  },
+  {
+    "id": 106,
+    "word": "TARAK",
+    "forbidden": [
+      "Saç",
+      "Fırça",
+      "Taramak",
+      "Düğüm",
+      "Berber"
+    ],
+    "category": "Kişisel Bakım"
+  },
+  {
+    "id": 107,
+    "word": "KOLTUK",
+    "forbidden": [
+      "Oturmak",
+      "Salon",
+      "Kumaş",
+      "Sofa",
+      "Minder"
+    ],
+    "category": "Mobilya"
+  },
+  {
+    "id": 108,
+    "word": "MASA",
+    "forbidden": [
+      "Sandalye",
+      "Ahşap",
+      "Üzeri",
+      "Yemek",
+      "Çalışma"
+    ],
+    "category": "Mobilya"
+  },
+  {
+    "id": 109,
+    "word": "TABAK",
+    "forbidden": [
+      "Porselen",
+      "Yemek",
+      "Servis",
+      "Çorba",
+      "Çatal"
+    ],
+    "category": "Mutfak"
+  },
+  {
+    "id": 110,
+    "word": "ÇATAL",
+    "forbidden": [
+      "Bıçak",
+      "Kaşık",
+      "Yemek",
+      "Batırmak",
+      "Metal"
+    ],
+    "category": "Mutfak"
+  },
+  {
+    "id": 111,
+    "word": "KAŞIK",
+    "forbidden": [
+      "Çorba",
+      "Çatal",
+      "Tatlı",
+      "Sulu",
+      "Yemek"
+    ],
+    "category": "Mutfak"
+  },
+  {
+    "id": 112,
+    "word": "TENCERE",
+    "forbidden": [
+      "Kapak",
+      "Pişirmek",
+      "Ocak",
+      "Çorba",
+      "Mutfak"
+    ],
+    "category": "Mutfak"
+  },
+  {
+    "id": 113,
+    "word": "TAVA",
+    "forbidden": [
+      "Kızartmak",
+      "Yumurta",
+      "Sap",
+      "Mutfak",
+      "Yağ"
+    ],
+    "category": "Mutfak"
+  },
+  {
+    "id": 114,
+    "word": "BARDAK",
+    "forbidden": [
+      "Su",
+      "Cam",
+      "İçmek",
+      "Çay",
+      "Fincan"
+    ],
+    "category": "Mutfak"
+  },
+  {
+    "id": 115,
+    "word": "SÜRAHİ",
+    "forbidden": [
+      "Su",
+      "Cam",
+      "Doldurmak",
+      "Kap",
+      "İçecek"
+    ],
+    "category": "Mutfak"
+  },
+  {
+    "id": 116,
+    "word": "HAVLU",
+    "forbidden": [
+      "Kurulanmak",
+      "Banyo",
+      "Yüz",
+      "Pamuk",
+      "Islak"
+    ],
+    "category": "Banyo"
+  },
+  {
+    "id": 117,
+    "word": "SABUN",
+    "forbidden": [
+      "Yıkamak",
+      "El",
+      "Köpük",
+      "Banyo",
+      "Hijyen"
+    ],
+    "category": "Kişisel Bakım"
+  },
+  {
+    "id": 118,
+    "word": "ŞAMPUAN",
+    "forbidden": [
+      "Saç",
+      "Köpük",
+      "Banyo",
+      "Yıkamak",
+      "Duş"
+    ],
+    "category": "Kişisel Bakım"
+  },
+  {
+    "id": 119,
+    "word": "DİŞ FIRÇASI",
+    "forbidden": [
+      "Macun",
+      "Ağız",
+      "Temizlemek",
+      "Sabah",
+      "Gece"
+    ],
+    "category": "Kişisel Bakım"
+  },
+  {
+    "id": 120,
+    "word": "DİŞ MACUNU",
+    "forbidden": [
+      "Fırça",
+      "Tüp",
+      "Nane",
+      "Ağız",
+      "Beyaz"
+    ],
+    "category": "Kişisel Bakım"
+  },
+  {
+    "id": 121,
+    "word": "GÜNEŞLİK",
+    "forbidden": [
+      "Perde",
+      "Pencere",
+      "Kapatmak",
+      "Işık",
+      "Karanlık"
+    ],
+    "category": "Ev Eşyası"
+  },
+  {
+    "id": 122,
+    "word": "KİLİM",
+    "forbidden": [
+      "Halı",
+      "Zemin",
+      "Dokuma",
+      "Serpmek",
+      "Desen"
+    ],
+    "category": "Ev Eşyası"
+  },
+  {
+    "id": 123,
+    "word": "SEHPA",
+    "forbidden": [
+      "Salon",
+      "Çay",
+      "Masa",
+      "Küçük",
+      "Üzeri"
+    ],
+    "category": "Mobilya"
+  },
+  {
+    "id": 124,
+    "word": "TAKVİM",
+    "forbidden": [
+      "Tarih",
+      "Yıl",
+      "Ay",
+      "Gün",
+      "Duvar"
+    ],
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 125,
+    "word": "DEFTER",
+    "forbidden": [
+      "Sayfa",
+      "Yazmak",
+      "Not",
+      "Çizgili",
+      "Kareli"
+    ],
+    "category": "Kırtasiye"
+  },
+  {
+    "id": 126,
+    "word": "SİLGİ",
+    "forbidden": [
+      "Yazı",
+      "Yanlış",
+      "Düzeltmek",
+      "Kurşun",
+      "Kalem"
+    ],
+    "category": "Kırtasiye"
+  },
+  {
+    "id": 127,
+    "word": "CETVEL",
+    "forbidden": [
+      "Ölçmek",
+      "Çizmek",
+      "Santimetre",
+      "Düz",
+      "Plastik"
+    ],
+    "category": "Kırtasiye"
+  },
+  {
+    "id": 128,
+    "word": "SÖZLÜK",
+    "forbidden": [
+      "Kelime",
+      "Anlam",
+      "Dil",
+      "Harf",
+      "Çeviri"
+    ],
+    "category": "Kırtasiye"
+  },
+  {
+    "id": 129,
+    "word": "ZIMBA",
+    "forbidden": [
+      "Kağıt",
+      "Tutturmak",
+      "Tel",
+      "Ofis",
+      "Delmek"
+    ],
+    "category": "Kırtasiye"
+  },
+  {
+    "id": 130,
+    "word": "İĞNE",
+    "forbidden": [
+      "İplik",
+      "Dikiş",
+      "Kumaş",
+      "Uç",
+      "Batmak"
+    ],
+    "category": "Giyim & Hobi"
+  },
+  {
+    "id": 131,
+    "word": "İPLİK",
+    "forbidden": [
+      "Dikiş",
+      "İğne",
+      "Makara",
+      "Kumaş",
+      "Renk"
+    ],
+    "category": "Giyim & Hobi"
+  },
+  {
+    "id": 132,
+    "word": "DÜĞME",
+    "forbidden": [
+      "İlik",
+      "Gömlek",
+      "Kapatmak",
+      "Kıyafet",
+      "Plastik"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 133,
+    "word": "ÜTÜ",
+    "forbidden": [
+      "Buhar",
+      "Kırışık",
+      "Gömlek",
+      "Sıcak",
+      "Masa"
+    ],
+    "category": "Ev Eşyası"
+  },
+  {
+    "id": 134,
+    "word": "SÜPÜRGE",
+    "forbidden": [
+      "Elektrik",
+      "Toz",
+      "Temizlik",
+      "Çekmek",
+      "Halı"
+    ],
+    "category": "Ev Eşyası"
+  },
+  {
+    "id": 135,
+    "word": "VAZO",
+    "forbidden": [
+      "Çiçek",
+      "Cam",
+      "Su",
+      "Masa",
+      "Süs"
+    ],
+    "category": "Ev Eşyası"
+  },
+  {
+    "id": 136,
+    "word": "TABURE",
+    "forbidden": [
+      "Oturmak",
+      "Sandalye",
+      "Arkalıksız",
+      "Ahşap",
+      "Mutfak"
+    ],
+    "category": "Mobilya"
+  },
+  {
+    "id": 137,
+    "word": "YAĞMURLUK",
+    "forbidden": [
+      "Hava",
+      "Su",
+      "Giymek",
+      "Kapüşon",
+      "Islanmak"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 138,
+    "word": "ÇORAP",
+    "forbidden": [
+      "Ayak",
+      "Giyinmek",
+      "Ayakkabı",
+      "Çift",
+      "Pamuk"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 139,
+    "word": "PANTOLON",
+    "forbidden": [
+      "Bacak",
+      "Giyinmek",
+      "Kot",
+      "Kemer",
+      "Cip"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 140,
+    "word": "GÖMLEK",
+    "forbidden": [
+      "Düğme",
+      "Yaka",
+      "Kollu",
+      "Üst",
+      "Giyinmek"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 141,
+    "word": "CEKET",
+    "forbidden": [
+      "Kış",
+      "Giyinmek",
+      "Mont",
+      "Düğme",
+      "Üst"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 142,
+    "word": "ŞAPKA",
+    "forbidden": [
+      "Baş",
+      "Takmak",
+      "Güneş",
+      "Kış",
+      "Siper"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 143,
+    "word": "ELDİVEN",
+    "forbidden": [
+      "El",
+      "Parmak",
+      "Kış",
+      "Soğuk",
+      "Takmak"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 144,
+    "word": "ATKI",
+    "forbidden": [
+      "Boyun",
+      "Kış",
+      "Soğuk",
+      "Örgü",
+      "Sarmak"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 145,
+    "word": "KEMER",
+    "forbidden": [
+      "Pantolon",
+      "Bel",
+      "Toka",
+      "Deri",
+      "Sıkmak"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 146,
+    "word": "ELBİSE",
+    "forbidden": [
+      "Kıyafet",
+      "Tek Parça",
+      "Etek",
+      "Giymek",
+      "Kadın"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 147,
+    "word": "ETEK",
+    "forbidden": [
+      "Bacak",
+      "Giymek",
+      "Kadın",
+      "Kıyafet",
+      "Uzun"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 148,
+    "word": "TERLİK",
+    "forbidden": [
+      "Ev",
+      "Ayak",
+      "Yaz",
+      "Giyinmek",
+      "Banyo"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 149,
+    "word": "BOT",
+    "forbidden": [
+      "Kış",
+      "Ayakkabı",
+      "Kar",
+      "Deri",
+      "Ağır"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 150,
+    "word": "ÇİZME",
+    "forbidden": [
+      "Uzun",
+      "Yağmur",
+      "Kış",
+      "Ayak",
+      "Diz"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 151,
+    "word": "KAZAK",
+    "forbidden": [
+      "Yün",
+      "Kış",
+      "Sıcak",
+      "Giyinmek",
+      "Örgü"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 152,
+    "word": "HIRKA",
+    "forbidden": [
+      "Düğme",
+      "Örgü",
+      "Kış",
+      "Giyinmek",
+      "Serin"
+    ],
+    "category": "Giyim"
+  },
+  {
+    "id": 153,
+    "word": "PİLAV",
+    "forbidden": [
+      "Pirinç",
+      "Bulgur",
+      "Tencere",
+      "Tereyağı",
+      "Tane"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 154,
+    "word": "BÖREK",
+    "forbidden": [
+      "Yufka",
+      "Fırın",
+      "Peynir",
+      "Tepsi",
+      "Çıtır"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 155,
+    "word": "PİDE",
+    "forbidden": [
+      "Ramazan",
+      "Fırın",
+      "Kıymalı",
+      "Fırıncı",
+      "Hamur"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 156,
+    "word": "LAHMACUN",
+    "forbidden": [
+      "Kıyma",
+      "Maydanoz",
+      "Limon",
+      "İnce",
+      "Fırın"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 157,
+    "word": "KÖFTE",
+    "forbidden": [
+      "Kıyma",
+      "Izgara",
+      "Ekmek",
+      "Cızbız",
+      "Et"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 158,
+    "word": "MANTI",
+    "forbidden": [
+      "Yoğurt",
+      "Kayseri",
+      "Kıyma",
+      "Hamur",
+      "Sarımsak"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 159,
+    "word": "SALATA",
+    "forbidden": [
+      "Domates",
+      "Salatalık",
+      "Zeytinyağı",
+      "Limon",
+      "Yeşillik"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 160,
+    "word": "YOĞURT",
+    "forbidden": [
+      "Süt",
+      "Mayalamak",
+      "Beyaz",
+      "Kase",
+      "Ayran"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 161,
+    "word": "PEYNİR",
+    "forbidden": [
+      "Süt",
+      "Kahvaltı",
+      "Beyaz",
+      "Kaşar",
+      "Dilim"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 162,
+    "word": "ZEYTİN",
+    "forbidden": [
+      "Siyah",
+      "Yeşil",
+      "Kahvaltı",
+      "Çekirdek",
+      "Yağ"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 163,
+    "word": "YUMURTA",
+    "forbidden": [
+      "Tavuk",
+      "Beyaz",
+      "Sarısı",
+      "Kabuk",
+      "Kahvaltı"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 164,
+    "word": "TEREYAĞI",
+    "forbidden": [
+      "Süt",
+      "Eritmek",
+      "Kahvaltı",
+      "Tava",
+      "Yemek"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 165,
+    "word": "BAL",
+    "forbidden": [
+      "Arı",
+      "Kovan",
+      "Tatlı",
+      "Kahvaltı",
+      "Petek"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 166,
+    "word": "REÇEL",
+    "forbidden": [
+      "Meyve",
+      "Şeker",
+      "Kahvaltı",
+      "Kavanoz",
+      "Tatlı"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 167,
+    "word": "SİMİT",
+    "forbidden": [
+      "Susam",
+      "Halka",
+      "Fırın",
+      "Sokak",
+      "Çay"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 168,
+    "word": "POĞAÇA",
+    "forbidden": [
+      "Fırın",
+      "Hamur",
+      "Peynir",
+      "Kahvaltı",
+      "Pastane"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 169,
+    "word": "AYRAN",
+    "forbidden": [
+      "Yoğurt",
+      "Su",
+      "Tuz",
+      "Çalkalamak",
+      "Soğuk"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 170,
+    "word": "GAZOZ",
+    "forbidden": [
+      "Kapak",
+      "Şişe",
+      "Kabarcık",
+      "İçecek",
+      "Meyveli"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 171,
+    "word": "LİMONATA",
+    "forbidden": [
+      "Limon",
+      "Sarı",
+      "Yaz",
+      "Soğuk",
+      "Buz"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 172,
+    "word": "PORTAKAL",
+    "forbidden": [
+      "Meyve",
+      "C Vitamini",
+      "Sıkmak",
+      "Kabuk",
+      "Turuncu"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 173,
+    "word": "ELMA",
+    "forbidden": [
+      "Meyve",
+      "Ağaç",
+      "Kırmızı",
+      "Amasya",
+      "Kabuk"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 174,
+    "word": "MUZ",
+    "forbidden": [
+      "Sarı",
+      "Meyve",
+      "Maymun",
+      "Kabuk",
+      "Soymak"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 175,
+    "word": "ÇİLEK",
+    "forbidden": [
+      "Kırmızı",
+      "Meyve",
+      "Reçel",
+      "Yaz",
+      "Tatlı"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 176,
+    "word": "ÜZÜM",
+    "forbidden": [
+      "Bağ",
+      "Salkım",
+      "Meyve",
+      "Kuru",
+      "Şarap"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 177,
+    "word": "KİRAZ",
+    "forbidden": [
+      "Kırmızı",
+      "Meyve",
+      "Çekirdek",
+      "Sap",
+      "Yaz"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 178,
+    "word": "ŞEFTALİ",
+    "forbidden": [
+      "Tüylü",
+      "Meyve",
+      "Çekirdek",
+      "Yaz",
+      "Sulu"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 179,
+    "word": "DOMATES",
+    "forbidden": [
+      "Kırmızı",
+      "Sebze",
+      "Salata",
+      "Salça",
+      "Menemen"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 180,
+    "word": "SALATALIK",
+    "forbidden": [
+      "Yeşil",
+      "Sebze",
+      "Hıyar",
+      "Salata",
+      "Kabuk"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 181,
+    "word": "PATATES",
+    "forbidden": [
+      "Kızartma",
+      "Püre",
+      "Toprak",
+      "Sebze",
+      "Cips"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 182,
+    "word": "SOĞAN",
+    "forbidden": [
+      "Ağlatmak",
+      "Yemek",
+      "Cücük",
+      "Zar",
+      "Kavurmak"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 183,
+    "word": "HAVUÇ",
+    "forbidden": [
+      "Turuncu",
+      "Tavşan",
+      "Göz",
+      "Sebze",
+      "Rende"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 184,
+    "word": "BİBER",
+    "forbidden": [
+      "Acı",
+      "Yeşil",
+      "Kırmızı",
+      "Dolma",
+      "Sebze"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 185,
+    "word": "MANTAR",
+    "forbidden": [
+      "Zehirli",
+      "Orman",
+      "Sap",
+      "Sote",
+      "Şapka"
+    ],
+    "category": "Yiyecek & İçecek"
+  },
+  {
+    "id": 186,
+    "word": "MUTFAK",
+    "forbidden": [
+      "Yemek",
+      "Ocak",
+      "Tezgah",
+      "Eşya",
+      "Ev"
+    ],
+    "category": "Mekan"
+  },
+  {
+    "id": 187,
+    "word": "BANYO",
+    "forbidden": [
+      "Duş",
+      "Küvet",
+      "Su",
+      "Yıkanmak",
+      "Ayna"
+    ],
+    "category": "Mekan"
+  },
+  {
+    "id": 188,
+    "word": "SALON",
+    "forbidden": [
+      "Koltuk",
+      "Televizyon",
+      "Oturmak",
+      "Misafir",
+      "Ev"
+    ],
+    "category": "Mekan"
+  },
+  {
+    "id": 189,
+    "word": "BALKON",
+    "forbidden": [
+      "Dışarı",
+      "Hava",
+      "Çamaşır",
+      "Manzara",
+      "Korkuluk"
+    ],
+    "category": "Mekan"
+  },
+  {
+    "id": 190,
+    "word": "BAHÇE",
+    "forbidden": [
+      "Çim",
+      "Ağaç",
+      "Çiçek",
+      "Toprak",
+      "Dışarı"
+    ],
+    "category": "Mekan"
+  },
+  {
+    "id": 191,
+    "word": "GARAJ",
+    "forbidden": [
+      "Otomobil",
+      "Park",
+      "Bina",
+      "Kapı",
+      "Araç"
+    ],
+    "category": "Mekan"
+  },
+  {
+    "id": 192,
+    "word": "ÇATI",
+    "forbidden": [
+      "Bina",
+      "Kiremit",
+      "Teras",
+      "Üst",
+      "Baca"
+    ],
+    "category": "Mekan"
+  },
+  {
+    "id": 193,
+    "word": "ASANSÖR",
+    "forbidden": [
+      "Kat",
+      "Düğme",
+      "Bina",
+      "İnmek",
+      "Çıkmak"
+    ],
+    "category": "Mekan & Eşya"
+  },
+  {
+    "id": 194,
+    "word": "MERDİVEN",
+    "forbidden": [
+      "Basamak",
+      "Çıkmak",
+      "İnmek",
+      "Bina",
+      "Korkuluk"
+    ],
+    "category": "Mekan & Eşya"
+  },
+  {
+    "id": 195,
+    "word": "SOKAK",
+    "forbidden": [
+      "Yol",
+      "Bina",
+      "Mahalle",
+      "Lamba",
+      "Yürümek"
+    ],
+    "category": "Mekan"
+  },
+  {
+    "id": 196,
+    "word": "CADDE",
+    "forbidden": [
+      "Geniş",
+      "Yol",
+      "Trafik",
+      "Araba",
+      "Sokak"
+    ],
+    "category": "Mekan"
+  },
+  {
+    "id": 197,
+    "word": "PARK",
+    "forbidden": [
+      "Çocuk",
+      "Oyun",
+      "Salıncak",
+      "Yeşillik",
+      "Bank"
+    ],
+    "category": "Mekan"
+  },
+  {
+    "id": 198,
+    "word": "MEYDAN",
+    "forbidden": [
+      "Şehir",
+      "Kalabalık",
+      "Orta",
+      "Heykel",
+      "Buluşma"
+    ],
+    "category": "Mekan"
+  },
+  {
+    "id": 199,
+    "word": "DURAK",
+    "forbidden": [
+      "Otobüs",
+      "Beklemek",
+      "Dolmuş",
+      "Yolcu",
+      "Tabela"
+    ],
+    "category": "Mekan"
+  },
+  {
+    "id": 200,
+    "word": "HAVALİMANI",
+    "forbidden": [
+      "Uçak",
+      "Pist",
+      "Yolcu",
+      "Terminal",
+      "Uçuş"
+    ],
+    "category": "Mekan"
   }
 ]

@@ -3,8 +3,8 @@ import json
 with open("data/generated_cards.json", "r", encoding="utf-8") as file:
     cards = json.load(file)
 
-print(f"Toplam kart: {len(cards)}")
-print("\nKontrol sonuçları:\n")
+print(f"Total cards: {len(cards)}")
+print("\nValidation results:\n")
 
 seen_words = set()
 valid_cards = 0
@@ -16,16 +16,16 @@ for card in cards:
     errors = []
 
     if len(forbidden) != 5:
-        errors.append("5 yasaklı kelime yok")
+        errors.append("not exactly 5 forbidden words")
 
     if word in forbidden:
-        errors.append("hedef kelime yasaklı kelimelerde")
+        errors.append("target word appears in forbidden words")
 
     if len(forbidden) != len(set(forbidden)):
-        errors.append("yasaklı kelime tekrarı var")
+        errors.append("duplicate forbidden words")
 
     if word in seen_words:
-        errors.append("hedef kelime tekrar ediyor")
+        errors.append("duplicate target word")
 
     seen_words.add(word)
 
@@ -37,4 +37,4 @@ for card in cards:
         print(f"✅ {card['word']}")
         valid_cards += 1
 
-print(f"\nGeçerli kart: {valid_cards}/{len(cards)}")
+print(f"\nValid cards: {valid_cards}/{len(cards)}")

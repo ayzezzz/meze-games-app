@@ -7,32 +7,48 @@ load_dotenv()
 
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
-prompt = """
-Türkçe Tabu oyunu için 100 adet kart oluştur.
+FILE_PATH = "data/generated_cards.json"
+NEW_CARD_COUNT = 100
 
-Her kart:
-- 1 hedef kelime
-- 5 yasaklı kelime
-- 1 kategori
+if os.path.exists(FILE_PATH):
+    with open(FILE_PATH, "r", encoding="utf-8") as file:
+        existing_cards = json.load(file)
+else:
+    existing_cards = []
 
-içersin.
+existing_words = {
+    card["word"].strip().lower()
+    for card in existing_cards
+}
 
-Kurallar:
-- Günlük hayatta kullanılan yaygın Türkçe kelimeler seç.
-- Hedef kelime yasaklı kelimeler arasında olmasın.
-- Yasaklı kelimeler kendi içinde tekrar etmesin.
-- Her kartta tam olarak 5 yasaklı kelime olsun.
-- Aynı hedef kelime birden fazla kullanılmasın.
-- JSON dışında hiçbir açıklama yazma.
+prompt = f"""
+Generate {NEW_CARD_COUNT} NEW cards for a Turkish Taboo game.
+
+Each card must contain:
+- 1 target word
+- 5 forbidden words
+- 1 category
+
+Rules:
+- All target words, forbidden words, and categories must be in Turkish.
+- Use common Turkish words that are frequently used in everyday life.
+- Do not reuse any target word from the existing dataset.
+- The target word must not appear among its forbidden words.
+- Each card must contain exactly 5 forbidden words.
+- Forbidden words must be unique within each card.
+- Return valid JSON only. Do not include any explanation or Markdown.
+
+Existing target words:
+{sorted(existing_words)}
 
 Format:
 [
-  {
+  {{
     "id": 1,
     "word": "KAHVE",
-    "forbidden": ["Fincan", "Kafein", "İçecek", "Türk", "Sabah"],
-    "category": "Yiyecek"
-  }
+    "forbidden": ["Fincan", "Kafein", "İçecek", "Sıcak", "Sabah"],
+    "category": "Yiyecek & İçecek"
+  }}
 ]
 """
 
@@ -41,11 +57,19 @@ response = client.models.generate_content(
     contents=prompt
 )
 
-text = response.text.strip()
+new_cards = json.loads(response.text.strip())
 
-cards = json.loads(text)
+next_id = len(existing_cards) + 1
 
-with open("data/generated_cards.json", "w", encoding="utf-8") as file:
-    json.dump(cards, file, ensure_ascii=False, indent=2)
+for card in new_cards:
+    card["id"] = next_id
+    next_id += 1
 
-print(f"{len(cards)} kart oluşturuldu.")
+all_cards = existing_cards + new_cards
+
+with open(FILE_PATH, "w", encoding="utf-8") as file:
+    json.dump(all_cards, file, ensure_ascii=False, indent=2)
+
+print(f"Existing cards: {len(existing_cards)}")
+print(f"New cards added: {len(new_cards)}")
+print(f"Total cards: {len(all_cards)}")
